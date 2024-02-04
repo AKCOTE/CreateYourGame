@@ -1,5 +1,6 @@
 name: CreateYourGame
 main: ru.akcote.createyourgame.Main
 version: '1'
+author: "avariuous"
 commands:
   world:
